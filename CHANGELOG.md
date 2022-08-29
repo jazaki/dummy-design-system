@@ -1,3 +1,16 @@
+# v0.1.2 (Mon Aug 29 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:jazaki/dummy-design-system into main ([@jazaki](https://github.com/jazaki))
+- main: edited push script ([@jazaki](https://github.com/jazaki))
+
+#### Authors: 1
+
+- Junaid Arham ([@jazaki](https://github.com/jazaki))
+
+---
+
 # v0.1.1 (Mon Aug 29 2022)
 
 #### 🐛 Bug Fix
