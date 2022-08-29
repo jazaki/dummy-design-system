@@ -37,7 +37,7 @@ Sizes.args = {
 
 export const Initials = (args) => (
   <div>
-    <Avatar username="Tom Coleman" { ...args }/>
+    <Avatar username="Tom Tom" { ...args }/>
     <Avatar username="Dominic Nguyen" { ...args }/>
     <Avatar username="Kyle Suss" { ...args }/>
     <Avatar username="Michael Shilman" { ...args }/>
